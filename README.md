@@ -1,63 +1,110 @@
-<div align="center">
+ <div align="center">
 
 <img src="midnight-maker-workspace.png" alt="Midnight Maker Workspace" width="100%">
-# Hi, I'm Onkar
 
-**ENTC Engineering Student · Aspiring Developer**
+# ONKAR GHODECHOR
 
-Electronics, programming, and the practical side of making technology work.
+### Electronics & Telecommunication Engineering Student
+
+*Interested in electronics, programming, and building practical technology.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-onkar--ghodechor-181717?style=flat-square&logo=github)](https://github.com/onkar-ghodechor)
+[![C](https://img.shields.io/badge/Language-C-00599C?style=flat-square&logo=c)](https://en.cppreference.com/w/c/)
+[![C++](https://img.shields.io/badge/Language-C++-00599C?style=flat-square&logo=cplusplus)](https://isocpp.org/)
+[![Learning](https://img.shields.io/badge/Status-Always_Learning-blue?style=flat-square)](https://github.com/onkar-ghodechor)
 
 </div>
 
 ---
 
-## About
+## About Me
 
-I'm an Electronics and Telecommunication Engineering student building my skills in programming and exploring how software connects with electronic systems.
+I'm an Electronics and Telecommunication Engineering student interested in understanding how hardware and software work together.
 
-I enjoy learning by doing: understanding a concept, trying it in code, and improving it through small projects. I'm currently strengthening my foundations and documenting what I learn along the way.
+I enjoy learning new technologies, experimenting with code, and developing projects that help me improve my practical engineering skills.
 
 - Currently learning **C and C++**
-- Practising **Git and GitHub** for version control and project documentation
-- Exploring **embedded systems, IoT, and digital electronics**
-- Interested in projects that connect **hardware and software**
-
-## Skills & Tools
-
-| Area | Currently working with |
-|---|---|
-| Programming | C, C++ |
-| Version control | Git, GitHub |
-| Development tools | Visual Studio Code |
-| Areas of interest | Embedded systems, IoT, electronics, communication systems |
-
-*This list reflects my current learning and interests; I'll update it as I gain hands-on experience.*
-
-## Projects
-
-I use my repositories to document coursework, experiments, and personal projects.
-
-A few things you'll find here:
-- Small C/C++ programs as I practise programming fundamentals
-- Beginner-friendly engineering projects and simulations
-- Notes and experiments related to electronics and embedded systems
-
-Have a look through my pinned repositories for the latest work.
-
-## What I'm working towards
-
-- Building a stronger foundation in programming and problem-solving
-- Learning how embedded systems are designed and programmed
-- Creating well-documented projects that demonstrate what I've learned
-- Collaborating, taking feedback, and improving one project at a time
-
-## Find me
-
-- GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/onkar-ghodechor)
+- Exploring **Embedded Systems and IoT**
+- Building my foundation in **Programming and Problem Solving**
+- Learning **Git and GitHub** for project development and collaboration
+- Interested in **Electronics, Communication Systems and Technology**
 
 ---
 
+## Technical Skills
+
+| Category | Technologies |
+|:---|:---|
+| Programming | C, C++ |
+| Version Control | Git, GitHub |
+| Code Editor | Visual Studio Code |
+| Interests | Embedded Systems, IoT, Digital Electronics |
+| Engineering | Electronics & Telecommunication |
+
+### Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,git,github,vscode,linux" alt="C, C++, Git, GitHub, VS Code and Linux" />
+</p>
+
+---
+
+## Projects & Experiments
+
+I use GitHub to document my learning journey and share practical work.
+
+Some areas I'm exploring:
+
+- **C/C++ Programming:** Small programs and programming fundamentals.
+- **Electronics:** Basic electronic concepts and circuit-related experiments.
+- **Embedded Systems:** Understanding microcontrollers and hardware-software integration.
+- **IoT:** Exploring connected devices and communication technologies.
+
+<details>
+<summary><b>What I want to build next</b></summary>
+
+- Microcontroller-based projects
+- Sensor-based monitoring systems
+- Basic automation projects
+- Electronics simulations
+
+</details>
+
+---
+
+## GitHub Statistics
+
 <div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=onkar-ghodechor&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkar-ghodechor&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages">
+
+<img width="95%" src="https://streak-stats.demolab.com?user=onkar-ghodechor&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak">
+
+</div>
+
+---
+
+## Current Goals
+
+- Strengthen programming fundamentals.
+- Improve problem-solving skills.
+- Develop practical electronics projects.
+- Learn embedded systems and IoT.
+- Build a meaningful engineering portfolio.
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/onkar-ghodechor)
+
+**Open to learning, collaboration, and interesting engineering projects.**
+
+---
 
 *Learning steadily. Building things. Improving with every project.*
 
