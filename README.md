@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="assets/midnight-maker-workspace.png" alt="Midnight Maker Workspace" width="100%">
-
+<img src="midnight-maker-workspace.png" alt="Midnight Maker Workspace" width="100%">
 # Hi, I'm Onkar
 
 **ENTC Engineering Student · Aspiring Developer**
@@ -54,7 +53,7 @@ Have a look through my pinned repositories for the latest work.
 
 ## Find me
 
-- GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+- GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/onkar-ghodechor)
 
 ---
 
